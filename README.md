@@ -16,7 +16,7 @@ This game was developed using **OpenGL**, providing an immersive graphical exper
 
 Check out a video of the gameplay:
 
-![Sample Gameplay](link-to-your-video.gif)
+https://youtu.be/lXv6shZb_RE
 
 ## Requirements
 
