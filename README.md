@@ -1,1 +1,1 @@
-# SkullCavernGame
+# Skull Cavern: Diamond Quest Game
